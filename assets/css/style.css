@@ -1,0 +1,477 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Inter+Tight:wght@300&display=swap');
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body{
+    font-family: Inter, sans-serif;
+    color: #1c1c1c;
+  
+}
+
+body { background-color:#e5e0e0;}
+
+/* headings and logo */
+#headeredit {color:#fe7171;}
+
+h1, h2{
+    font-family: Bebas, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #343232;
+  
+}
+
+#logo{
+    float: left;
+    font-size: 280%;
+    margin-left: 30px;
+  
+   
+
+}
+
+/* navigation links to navigate website*/
+
+#menu{
+    font-size: 110%;
+    letter-spacing: 4px;
+
+  
+}
+
+#logo, #menu{
+    line-height: 75px;
+  
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+  
+}
+
+#menu a {
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid #3a3a3a;
+}
+
+.active{
+    border-bottom: 1px solid #3a3a3a;
+}
+
+/* studio image and text information for main page */
+
+#welcome2 {position:relative;
+          padding-bottom:50px;
+           padding-top:50px;
+           text-align:center;
+           font-family: Bebas, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+    color: #5a5844;
+  }
+/* stack overflow helped with some of the help, eg line spacing as i forgot the name of it */
+#intropara {position:relative;
+          padding-bottom:60px;
+           padding-top:40px;
+           text-align:center;
+           font-family: Bebas, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 1.5px;
+    line-height:20px;
+    color: #5a5844;}
+
+#studio-outer{
+    height:600px;
+    width: 100%;
+    overflow: hidden;
+    position: relative;
+ 
+}
+
+#studio-image{
+    height:600px;
+    width: 100%;
+    background: url("https://images.pexels.com/photos/7802300/pexels-photo-7802300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center center;
+  
+  
+
+  
+
+   
+}
+
+/* cssing the cover text to suit the page */
+
+
+#cover-text, #cover-text h2 {
+    color: #000000;
+}
+
+#cover-text {
+    font-size: 130%;
+    font-family: Inter Tight;
+    text-transform: uppercase;
+    letter-spacing: 4px;
+
+    width: 300px;
+    height: 150px;
+
+    padding-top: 30px;
+    padding-left: 10px;
+    border-radius: 10px;
+    text-align: center;
+
+    background-color: #f0e9e0;
+
+    bottom: 30px;
+    left: 150px;
+
+    position: absolute;
+
+}
+
+/* studio about/info and ethos bit */
+
+#studio-ethos{
+    height: 500px;
+}
+
+#left-about{
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
+
+#right-about {
+    padding-top: 30px;
+    width: 33%;
+    float: right;
+}
+
+#center-about {
+    width: 33%;
+    margin: 0 auto;
+}
+
+hr {
+    border-top: 1px solid #292929;
+    width: 100%;
+    margin: 12px 0;
+   margin-bottom: 10px;
+}
+
+.left-about-heading {
+    width: 60%;
+    float: right;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 110px;
+}
+
+.right-about-heading {
+    width: 60%;
+    float: left;
+    line-height: 20px;
+    clear: both;
+    margin-bottom: 90px;
+}
+
+.right-about-heading p {
+    text-align: right;
+}
+
+.right-about-heading h2 {
+    text-align: right;
+}
+
+/* the studio center image */
+
+#welcome {
+    margin: 20px 0;
+    text-align: center;
+    font-size: 280%;
+  /*code added from stack overflow*/
+    text-decoration: none;
+    border-bottom: 4px solid #56554e;
+  
+}
+
+#circle-container {
+  /*code helped from stack overflow*/
+    width: 300px;
+    height: 300px;
+    padding: 30px;
+    margin: 0 auto;
+    margin-top:50px;
+
+ 
+}
+
+#circle-cover-bg {
+    background: url("https://images.pexels.com/photos/9644665/pexels-photo-9644665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") no-repeat center center;
+ 
+
+    height: 100%;
+    border-radius: 50%;
+    background-position: center;
+    background-size:cover;
+  
+}
+
+/* bottom part */
+
+#extrabit{
+    background-image: url("https://images.pexels.com/photos/7159271/pexels-photo-7159271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    overflow: hidden;
+   
+    
+  
+}
+
+#extrabit div {
+    color: #ffffff;
+    text-color:#ffffff;
+    width: 20%;
+    height: 300px;
+    float: left;
+    padding: 150px 0 0 10px;
+    text-align: center;
+    letter-spacing:2px;
+  
+}
+
+
+/* Footer */
+
+footer{
+    height: 150px;
+}
+
+.social-networks{
+    text-align: center;
+
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: #3a3a3a;
+}
+
+/* studio gallery, trialled and error'd until i got the image dimensions and text right to fit nicely and also got help from stack overflow on the correct names*/
+
+#studiogallerytext 
+
+{
+  font-family: Inter, sans-serif;
+  text-transform: uppercase;
+  margin: auto;
+  width: 40%;
+  border: 2px solid #5e5e5e;
+  padding: 1px;
+
+  position:absolute;
+   padding-top: 10px;
+  padding-bottom:10px;
+    padding-left: 1px;
+    border-radius: 10px;
+    text-align: center;
+
+    background-color: #f7f4e9;
+
+    bottom: 550px;
+    left: 470px;
+
+
+
+
+}
+
+
+
+#photo {
+    clear: both;
+  
+   
+    column-count: 4;
+   line-height: 0;
+    column-gap: 0px;
+  
+}
+
+#photo img{
+    width: 100%;
+    height: 50%;
+}
+
+/* booking sign up form */
+
+.form-section {
+clear: left;
+background: url("https://images.pexels.com/photos/3783471/pexels-photo-3783471.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2");
+    background-size: cover;
+    background-position: center;
+    height: 900px;
+  padding-bottom:55px;
+}
+
+.signup-form {
+    margin-top: 155px;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.7);
+    max-width: 400px;
+    position: absolute;
+    left: 12%;
+   
+    padding: 32px;
+}
+
+.signup-form > h2 {
+    color: #fafafa;
+    margin-bottom: 22px;
+}
+
+.text-input {
+    background: transparent;
+    color: #000000;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px 0;
+    border: 2px solid #fafafa;
+    border-radius: 3px;
+}
+
+.text-input:hover {
+    border-color: #fff8e5;
+}
+
+.join-button {
+    margin-top: 25px;
+    border-radius: 3px;
+    padding: 10px 30px 14px 30px;
+    font-size: 100%;
+  text-align: center;
+    background-color: #d2ccb2;
+    color: #000000;
+    display: block;
+}
+
+.join-button:hover {
+    background-color: #000000;
+    color: #fffad6;
+}
+
+/* all the media queries I added*/
+
+/* large to medium screens sizes from 1200px wide and down */
+@media screen and (max-width: 1200px){
+    #studio-ethos{
+        width: 65%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+
+    #welcome {
+        padding: 30px 0;
+        margin-top: 0;
+    }
+
+    #left-about, #right-about {
+        width:100%;
+        float:left;
+        padding: 0;
+    }
+
+    #center-about{
+        clear: both;
+        width: 100%;
+        float: left;
+        padding: 0;
+    }
+
+    #extrabit div {
+        width: 100%;
+        clear: both;
+        height: 150px;
+        padding: 0;
+    }
+
+  
+  
+  
+
+
+
+    hr {
+        display: none;
+    }
+}
+
+/* For medium screens sizes from 950px wide and down, got the basics down and trail and error'd until i was happy with the results on different devices */
+@media screen and (max-width: 950px){
+
+    #menu{
+        clear: left;
+        float: left;
+        margin-left: 30px; 
+        margin-bottom: 20px;
+        line-height: 25px;
+    }
+
+    #cover-text{
+        left:0px;
+    }
+
+    #studio-ethos, {
+        width:90%;
+        height: 1200px;
+        margin: 0 auto;
+    }
+   #studio-image {width:100%; height:1200px; margin:0 auto; padding-left:1500px;}
+  
+    .left-about-heading, .right-about-heading{
+        width: inherit;
+    }
+
+    .left-about-heading h2, .right-about-heading h2{
+        width: 100%;
+        text-align: center;
+    }
+
+    .left-about-heading p, .right-about-heading p{
+        text-align: center;
+        padding: 0 20px 0 20px;
+    }
+
+    #photo{
+        column-count: 4;
+    }
+  
+}
+
+/* For small screens sizes from 800px wide and down, got the basics down and trail and error'd until i was happy with the results on different devices */
+@media screen and (max-width: 800px){
+    #photo{
+        column-count: 4;
+      
+    }
+}
