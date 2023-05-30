@@ -25,11 +25,11 @@ The styling was also specific as I wanted to have a lot of space between images,
 
 Below is the wireframes I designed before creating my website to show the design I wanted to go for and how the contents would be displayed. 
 
-These wireframes were created using [Balsamiq](https://balsamiq.com/) during the Scope Plane part of the design and planning process for this project. 
+These wireframes were created using [Balsamiq](https://balsamiq.com/). 
 
-- [User info modal](https://i.ibb.co/FWBy68Q/Create-profile.png)
-- [Game page](https://i.ibb.co/H2XtCW9/Game-page.png)
-- [Win pop-up](https://i.ibb.co/5809P3Q/Win-popup.png)
+- [Home Page](https://ibb.co/kgMZdYN)
+- [Gallery page](https://ibb.co/Sfbhhzy)
+- [Book now page](https://ibb.co/wNgMZ6w)
 - 
 ## Technologies Used
 
