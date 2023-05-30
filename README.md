@@ -30,7 +30,6 @@ These wireframes were created using [Balsamiq](https://balsamiq.com/).
 - [Home Page](https://ibb.co/kgMZdYN)
 - [Gallery page](https://ibb.co/Sfbhhzy)
 - [Book now page](https://ibb.co/wNgMZ6w)
-- 
 ## Technologies Used
 
 * Replit
