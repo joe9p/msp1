@@ -60,6 +60,7 @@ I used WSC to test my code and validate both the HTML and CSS, both passed:
 
 ## Live Links
 Here are the live links to my site, one via codeanywhere and one via github.
+ https://joe9p.github.io/msp1/
  https://8000-joe9p-msp1-i7xdny3k6b.us2.codeanyapp.com
  https://github.com/joe9p/msp1.git
 
