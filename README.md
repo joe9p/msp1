@@ -21,6 +21,8 @@ The fonts **Inter** and **Bebas** are modern and clean to fit the aesthetic I wa
 
 The styling was also specific as I wanted to have a lot of space between images, text, backgrounds, menu items etc to all accomodate to the clean look.
 
+My design choices were integral throughout my testing process also as I aimed my HTML and CSS to match with my design choices so everything suited and produced an informal and sleek site. 
+
 ## Wireframes
 
 Below is the wireframes I designed before creating my website to show the design I wanted to go for and how the contents would be displayed. 
@@ -43,9 +45,24 @@ These wireframes were created using [Balsamiq](https://balsamiq.com/).
 ## Images
 The images I used in my project were all found on Pexels. 
 - Book now background image was from [Dmitry Demidov on Pexels](https://www.pexels.com/photo/silver-dynamic-microphone-on-black-microphone-stand-3783471/)
+- 
 - The gallery photos are all below: [Gallery image 1](https://images.pexels.com/photos/164938/pexels-photo-164938.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Gallery image 2](https://images.pexels.com/photos/4988128/pexels-photo-4988128.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2") [Gallery image 3](https://images.pexels.com/photos/7586136/pexels-photo-7586136.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Gallery image 4](https://images.pexels.com/photos/8132970/pexels-photo-8132970.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Galerry image 5](https://images.pexels.com/photos/7088373/pexels-photo-7088373.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Gallery image 6](https://images.pexels.com/photos/7086742/pexels-photo-7086742.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Gallery image 7](https://images.pexels.com/photos/9422904/pexels-photo-9422904.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Gallery image 8](https://images.pexels.com/photos/3990847/pexels-photo-3990847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 - Home page images used: [Homepage main](https://images.pexels.com/photos/7802300/pexels-photo-7802300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Circle Image](https://images.pexels.com/photos/9644665/pexels-photo-9644665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 - Footer image used: [Extra image](https://images.pexels.com/photos/7159271/pexels-photo-7159271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
+
+## Template of Website on different devices. 
+[Website Template](https://ibb.co/cg26Xh7) 
+
+## Testing
+I used WSC to test my code and validate both the HTML and CSS, both passed:
+[W3C](https://ibb.co/GH23cL8)
+[W3C](https://ibb.co/kBTkVzC)
+
+## Live Links
+Here are the live links to my site, one via codeanywhere and one via github.
+ https://8000-joe9p-msp1-i7xdny3k6b.us2.codeanyapp.com
+ https://github.com/joe9p/msp1.git
+
 ## Code
 - All the code used in the project is my own but I did need help occsionally when coding.
 - I used Stack Overflow and W3 Schools when I was stuck with a piece of code or needed help with ideas on how to structure my CSS. For example in the 'intropara' 'circle-container' 'welcome' and 'studiogallertext' CSS tags. 
