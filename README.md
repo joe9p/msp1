@@ -76,15 +76,15 @@ The images I used in my project were all found on Pexels.
 - Navigation Bar: Featured on all three pages, the full responsive navigation bar includes links to the Home page, Studio Gallery and Book Now page and is identical in each page to allow for easy navigation and recognisability. 
 This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page.
 
-- Landing Page: Contains a high quality image which shows that Lanvin studios offers to catch the eye immediately when the user opens the site. 
+- Landing Page: Contains a high quality image which shows that Lanvin studios offers to catch the eye immediately when the user opens the site. [Landing Page](https://ibb.co/H7vyHLH)
 
-- Studio Info on homepage: a nice, clean design on the home page to highlight what Lanvin offers as a company. 
+- Studio Info on homepage: a nice, clean design on the home page to highlight what Lanvin offers as a company. [Studio Info](https://ibb.co/MNHw2k2)
   
-- Gallery page: Contains a range of high quality images to show what the studios are like to give more info for the user.
+- Gallery page: Contains a range of high quality images to show what the studios are like to give more info for the user.[Gallery](https://ibb.co/Ycv6GKf)
 
-- Footer: The same on all pages to show the social media links for the company and also shows the location of the studios and contact info.
+- Footer: The same on all pages to show the social media links for the company and also shows the location of the studios and contact info.[Footer](https://ibb.co/kXTjyjP)
 
-- Book Now page: This page will allow the user to book the studios. The user will be asked to submit their full name and email address.
+- Book Now page: This page will allow the user to book the studios. The user will be asked to submit their full name and email address. [Bokk now page](https://ibb.co/RPMzxR5)
 
 
 ## Mock Up/ Template of Website on different devices. 
