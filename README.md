@@ -32,6 +32,27 @@ These wireframes were created using [Balsamiq](https://balsamiq.com/).
 - [Home Page](https://ibb.co/kgMZdYN)
 - [Gallery page](https://ibb.co/Sfbhhzy)
 - [Book now page](https://ibb.co/wNgMZ6w)
+  
+  ## User Experience
+Users will be able to find relevant information in the website to contact the studio, to book studios online and to be able to see what Lanvin Studios has to offer.
+
+User will access to contact information for the studios and they will be able to see the location of the studio.
+
+User Stories
+First time Users Goals:
+To be fascinated by the content and design. 
+To understand what the studios have to offer and the services Lanvin provides.
+To know the location and contact info of the studio.
+
+Returning Users Goals:
+To remember how to find relevant information (and how to navigate the site).
+Find the best and easy way to contact the studio.
+Find how to book studios.
+
+Frequent Users Goals:
+To see if there is any new information on studios.
+Find updates on services and equipment.
+
 ## Technologies Used
 
 * Replit
@@ -50,8 +71,24 @@ The images I used in my project were all found on Pexels.
 - Home page images used: [Homepage main](https://images.pexels.com/photos/7802300/pexels-photo-7802300.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2) [Circle Image](https://images.pexels.com/photos/9644665/pexels-photo-9644665.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 - Footer image used: [Extra image](https://images.pexels.com/photos/7159271/pexels-photo-7159271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=2)
 
-## Template of Website on different devices. 
-[Website Template](https://ibb.co/cg26Xh7) 
+
+## Features:
+- Navigation Bar: Featured on all three pages, the full responsive navigation bar includes links to the Home page, Studio Gallery and Book Now page and is identical in each page to allow for easy navigation and recognisability. 
+This section will allow the user to easily navigate from page to page across all devices without having to revert back to the previous page.
+
+- Landing Page: Contains a high quality image which shows that Lanvin studios offers to catch the eye immediately when the user opens the site. 
+
+- Studio Info on homepage: a nice, clean design on the home page to highlight what Lanvin offers as a company. 
+  
+- Gallery page: Contains a range of high quality images to show what the studios are like to give more info for the user.
+
+- Footer: The same on all pages to show the social media links for the company and also shows the location of the studios and contact info.
+
+- Book Now page: This page will allow the user to book the studios. The user will be asked to submit their full name and email address.
+
+
+## Mock Up/ Template of Website on different devices. 
+[Website Template](https://ibb.co/svQyGVr)
 
 ## Testing
 I used WSC to test my code and validate both the HTML and CSS, both passed:
