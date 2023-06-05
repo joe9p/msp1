@@ -2,6 +2,16 @@
 
 The purpose of my website is to be used by the public to enquire and book out studios for a London-based recording studio company called Lanivn Studios. 
 
+## Wireframes
+
+Below is the wireframes I designed before creating my website to show the design I wanted to go for and how the contents would be displayed. 
+
+These wireframes were created using [Balsamiq](https://balsamiq.com/). 
+
+- [Home Page](https://ibb.co/kgMZdYN)
+- [Gallery page](https://ibb.co/Sfbhhzy)
+- [Book now page](https://ibb.co/wNgMZ6w)
+
 ## Description and Goals
 
 The website shows what Lanvin Studios offers which is high-end recording studios; the website is mainly targetted at producers, songwriters, vocalists and artists who want to book them. 
@@ -22,23 +32,12 @@ The fonts **Inter** and **Bebas** are modern and clean to fit the aesthetic I wa
 The styling was also specific as I wanted to have a lot of space between images, text, backgrounds, menu items etc to all accomodate to the clean look.
 
 My design choices were integral throughout my testing process also as I aimed my HTML and CSS to match with my design choices so everything suited and produced an informal and sleek site. 
-
-## Wireframes
-
-Below is the wireframes I designed before creating my website to show the design I wanted to go for and how the contents would be displayed. 
-
-These wireframes were created using [Balsamiq](https://balsamiq.com/). 
-
-- [Home Page](https://ibb.co/kgMZdYN)
-- [Gallery page](https://ibb.co/Sfbhhzy)
-- [Book now page](https://ibb.co/wNgMZ6w)
   
   ## User Experience
 Users will be able to find relevant information in the website to contact the studio, to book studios online and to be able to see what Lanvin Studios has to offer.
 
 User will access to contact information for the studios and they will be able to see the location of the studio.
 
-User Stories
 First time Users Goals:
 To be fascinated by the content and design. 
 To understand what the studios have to offer and the services Lanvin provides.
@@ -52,6 +51,17 @@ Find how to book studios.
 Frequent Users Goals:
 To see if there is any new information on studios.
 Find updates on services and equipment.
+
+## User Stories
+First time Users:
+The first time users will be immediately interested in the webpage with its visually pleasing home page which is accompanied by my good use of images, layout, colours and text. They are clearly able to see the goals of the websites and it's purpose with the images and also the various amounts of text that represent what the company is for and makes them explore the page.
+
+Returning users:
+The returning users are able to find relevant information with the clear navigation bar I have made at the top of the page along with the book now page in order to get straight to where they need to go.
+
+Frequent users: 
+Will are able to navigate the site with ease via the navigation bar and can book studios easily too. They will also be able to notice if there any new information to be given to the users and can easily contact the studios for information also. 
+
 
 ## Technologies Used
 
